@@ -5,3 +5,6 @@
 ``` python
 edad = int(input("Ingrese su edad: "))
 ```
+
+- [ ] primer paso no listo
+- [x] segundo paso si listo
